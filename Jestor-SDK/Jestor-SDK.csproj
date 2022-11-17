@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Jestor_SDK</RootNamespace>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Company>Jestor</Company>
+    <Authors>Jestor</Authors>
+    <Description>Jestor SDK for .net - Version Beta</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>ARM64</PlatformTarget>
+  </PropertyGroup>
+
+</Project>
