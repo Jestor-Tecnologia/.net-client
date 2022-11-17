@@ -37,8 +37,8 @@ namespace UnitTests
         [TestInitialize]
         public void Init()
         {
-            this.org = "belnuovo";
-            this.token = "Nzk4NTRkMTMzNjFjMDI48aa1fa7516MTY1NzU0MzkyODc4ZDM5";
-        }*/
+            this.org = "";
+            this.token = "";
+        }
     }
 }
