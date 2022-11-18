@@ -9,7 +9,7 @@ Jestor client library for .net.
 
 ## Documentation
 
-Documentation with all available functions can be found [here](https://docs.jestor.com/docs/jestor-sdk-for-.net)
+Documentation with all available functions can be found [here](https://docs.jestor.com/docs/jestor-sdk-for-net-beta)
 
 ## Installation
 
