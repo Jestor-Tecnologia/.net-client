@@ -1,12 +1,15 @@
 # .net-client
 Jestor SDK for .NET - Version Beta
 
+[![Nuget](https://img.shields.io/nuget/v/Jestor-SDK?style=for-the-badge)](https://www.nuget.org/packages/Jestor-SDK/1.0.1)
+
+
 Jestor client library for .net.
 
 
 ## Documentation
 
-Documentation with all available functions can be found [here](https://docs.jestor.com/docs/jestor-sdk-for-.net)
+Documentation with all available functions can be found [here](https://docs.jestor.com/docs/jestor-sdk-for-net-beta)
 
 ## Installation
 
