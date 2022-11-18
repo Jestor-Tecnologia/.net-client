@@ -39,6 +39,6 @@ namespace UnitTests
         {
             this.org = "";
             this.token = "";
-        }
+        }*/
     }
 }

@@ -7,10 +7,26 @@
     <Company>Jestor</Company>
     <Authors>Jestor</Authors>
     <Description>Jestor SDK for .net - Version Beta</Description>
+    <Version>1.0.1</Version>
+    <PackageLicenseFile>README.md</PackageLicenseFile>
+    <PackageProjectUrl>https://docs.jestor.com/docs</PackageProjectUrl>
+    <PackageIcon>Social_Avatar_Blacffk.png</PackageIcon>
+    <PackageIconUrl />
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <PlatformTarget>ARM64</PlatformTarget>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\Social_Avatar_Blacffk.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
